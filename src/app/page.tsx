@@ -6,7 +6,7 @@ import Contact from "./component/Contact";
 import Hero from "./component/Hero";
 import Projects from "./component/Projects";
 import Skills from "./component/Skills";
-import AOS, { refresh } from "aos"
+import AOS from "aos"
 import "aos/dist/aos.css";
 
 export default function Home() {
